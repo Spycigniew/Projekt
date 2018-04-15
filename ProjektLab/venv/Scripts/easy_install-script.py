@@ -1,4 +1,4 @@
-#!C:\Users\Uczeñ\NowyProjekt\venv\Scripts\python.exe -x
+#!C:\Users\Uczeñ\Documents\Repo\ProjektLab\venv\Scripts\python.exe -x
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==28.8.0','console_scripts','easy_install'
 __requires__ = 'setuptools==28.8.0'
 import re
