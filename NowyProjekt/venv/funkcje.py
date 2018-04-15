@@ -1,21 +1,18 @@
-print("arek")
-
-
 def dodawanie(x, y):
-    suma= x + y
-    return suma
+    return x + y
+
 
 def odejmowanie(x, y):
-    roznica = x - y
-    return roznica
+    return x - y
+
 
 def mnozenie(x, y):
-    iloczyn = x * y
-    return iloczyn
+    return x * y
+
 
 def dzielenie(x, y):
-    iloraz = x/y
-    return iloraz
+    return x / y
+
 print(dodawanie(4,5))
 print(odejmowanie(9,5))
 print(mnozenie(2,3))

@@ -25,4 +25,7 @@ def dzielenie(x, y):
 
 
 
-print(suma = 5 +4)
+print(dodawanie(4,5))
+print(odejmowanie(9,5))
+print(mnozenie(2,3))
+print(dzielenie(9,3))
